@@ -3,7 +3,7 @@ I'm Natalie!
 
 Status: job-hunting 
 
-- 🌱 I’m currently learning consolidating my knowledge post-Makers Bootcamp by building a thermostat 
+- 🌱 I’m currently working on learning more about RESTful APIs.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/natalietheodoropoulou/">LinkedIn</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a mum of 3 daughters :) 
