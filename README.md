@@ -8,4 +8,6 @@ Status: job-hunting
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a mum of 3 daughters :) 
 
+Check out my portfolio website here: <a href="https://natalietheo.netlify.app/">here</a>!
+
 I graduated from Makers Academy's full stack software development bootcamp in Feb '22.
