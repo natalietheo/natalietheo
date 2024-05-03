@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Natalie!
 
-Status: job-hunting 
+Status: currently working as a Test Analyst
 
-- 🌱 I’m currently working on learning more about React.
+- 🌱 Looking to learn more about test automation
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/natalietheodoropoulou/">LinkedIn</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have owned and run a B2B vegan bakery for the last 6 years
